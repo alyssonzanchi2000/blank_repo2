@@ -1,3 +1,4 @@
 Este é um arquivo de teste
-Este é um arquivo de teste
 Nova linha adicionada
+- Data: 14/04/2025
+- Autor: alyssonzanchi2000
